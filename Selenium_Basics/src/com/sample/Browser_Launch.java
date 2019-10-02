@@ -23,29 +23,16 @@ public class Browser_Launch {
 		if (prop.get(browser).equals("chrome")) {
 			System.setProperty("webdriver.chrome.driver", prop.getProperty("chrome"));
 			driver = new ChromeDriver();
+			
+//			navigate URL
 			driver.get(prop.getProperty("amazonurl"));
-			driver.manage().window().maximize();
-			driver.getTitle();
-			System.out.println(driver.getCurrentUrl());
-			driver.manage().deleteAllCookies();
-			
-			
-			driver.manage().deleteAllCookies();
-			
 			
 		}
 		
 	}
-	
-
 	public static void main(String[] args) throws IOException {
 		file_Reader();
 		launch("chromebrowser");
-		
-		
 		driver.quit();
-		
-
 	}
-
 }

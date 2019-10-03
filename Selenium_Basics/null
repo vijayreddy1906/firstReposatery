@@ -1,0 +1,4 @@
+1570091934026	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileWhr1m3"
+1570091936870	Marionette	INFO	Listening on port 49219
+1570091937189	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 19040, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341

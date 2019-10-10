@@ -8,6 +8,7 @@ public class TC_005 extends Base_Test_With_Elements{
 
 	public static void main(String[] args) throws IOException {
 		init();
+		
 		launch("chromebrowser");
 		navigateURL("amazonurl");
 		select_Options("amazonsearchdopdown_id", "amazondropdownvalue");

@@ -55,6 +55,7 @@ public class Base_Test_With_Elements {
 		
 	}
 	public static void navigateURL(String URL){
+		driver.manage().window().maximize();
 		driver.get(prop.getProperty(URL));
 	}
 	
@@ -67,6 +68,9 @@ public class Base_Test_With_Elements {
 	public static void click_Element(String locaterKey){
 		getElement(locaterKey).click();
 	}
+	
+	
+	
 	public static WebElement getElement(String locaterKey){
 		
 		WebElement element=null;

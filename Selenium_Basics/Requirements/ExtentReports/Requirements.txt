@@ -1,0 +1,34 @@
+
+
+
+Extentreports_jarFile=https://mvnrepository.com/artifact/com.relevantcodes/extentreports/2.41.2
+|_>Xpath=//a[@class='vbtn' and contains(text(),'jar')]
+
+
+one XML File
+	|
+report_config_path=http://extentreports.com/docs/versions/3/java/#whats-new-304
+|_>Xpath=//a[contains(text(),'Extent-Config.xml Community')]
+
+code=_
+_____|_______________________________________________________________________________________________
+public static ExtentReports reportss=getreport();
+	public static ExtentTest test;	
+	public static ExtentReports getreport(){
+		ExtentReports report=null;
+		if (report==null) {
+			Date dt = new Date();
+			String filepath = dt.toString().replace(":", "_").replace(" ", "_") + ".html";
+			report = new ExtentReports(propertypath + "/Html_report/" + filepath);
+			report.loadConfig(new File(
+					"C:\\Users\\User\\git\\firstReposatery\\Selenium_Basics\\src\\extentReports_Log4j\\extentreports.xml"));
+		}	
+		return report;
+	}
+_______________________________________________________________________________________________________
+freemaker_exception=    http://central.maven.org/maven2/org/freemarker/freemarker/2.3.23/
+
+test=reportss.startTest("Extent_Report");
+test.log(LogStatus.INFO, details);
+reportss.endTest(test);
+reportss.flush();

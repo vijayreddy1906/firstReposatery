@@ -12,11 +12,10 @@ public class Example extends Base_Test {
 	public static ExtentReports getreports(){
 		if (report==null) {
 			Date date = new Date();
-			String filepath = date.toString().replace(" ", "_").replace(" ", "_") + ".html";
+			String filepath = date.toString().replace(" ", "_").replace(":", "_") + ".html";
 			System.out.println(filepath);
-			report = new ExtentReports(projectPath + "//Html report//" + filepath);
-			report.loadConfig(new File(
-					"C:\\Users\\User\\git\\firstReposatery\\Selenium_Basics\\src\\com\\day7_ExtentReports_Listoners\\configer.xml"));
+			report = new ExtentReports("C:\\Users\\User\\Documents\\GitHub\\firstReposatery\\Selenium_Basics\\Html report\\" + filepath);
+			report.loadConfig(new File("C:\\Users\\User\\Documents\\GitHub\\firstReposatery\\Selenium_Basics\\src\\com\\day7_ExtentReports_Listoners\\configer.xml"));
 		}
 		return report;
 		
@@ -24,6 +23,10 @@ public class Example extends Base_Test {
 	}
 
 	public static void main(String[] args) {
+		
+		/*String input="abcabcabc";
+		String result=input.chars().mapToObj(Character::toString).sorted.collect(Collectors.joining());*/
+		
 		
 	}
 }

@@ -7,5 +7,11 @@
 	<classpathentry kind="lib" path="C:/Users/User/Downloads/extentreports-2.41.2.jar"/>
 	<classpathentry kind="lib" path="C:/Users/User/Downloads/freemarker-2.3.23.jar"/>
 	<classpathentry kind="lib" path="C:/Users/User/Downloads/testng-6.14.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Downloads/webdrivermanager-3.7.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Downloads/commons-io-2.6/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Downloads/commons-io-2.6/commons-io-2.6-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Downloads/commons-io-2.6/commons-io-2.6-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Downloads/commons-io-2.6/commons-io-2.6-tests.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Downloads/commons-io-2.6/commons-io-2.6-test-sources.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

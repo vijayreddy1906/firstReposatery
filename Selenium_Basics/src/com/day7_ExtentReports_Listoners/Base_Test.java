@@ -48,27 +48,30 @@ public class Base_Test {
 		options.addArguments("disable-infobars");
 
 		driver = new ChromeDriver(options);
-		driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
 		driver.manage().deleteAllCookies();
+		driver.manage().timeouts().pageLoadTimeout(20, TimeUnit.SECONDS);
+		driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
+		
 
 	}
 
 	public static void purchase() throws InterruptedException {
 		driver.get("https://www.amazon.in");
-		driver.findElement(By.id("nav-link-accountList")).click();
+		driver.findElement(By.xpath("//a[@id='nav-link-accountList']/span[2]")).click();
 		driver.findElement(By.xpath("//div[@id='nav-flyout-ya-signin']//a/span[contains(text(),'Sign in')]")).click();
-		driver.findElement(By.xpath("//input[@class='a-input-text a-span12 auth-autofocus auth-required-field']"))
-				.sendKeys("kvreddy1906@gmail.com");
+		driver.findElement(By.id("ap_email")).sendKeys("kvreddy1906@gmail.com");
 		driver.findElement(By.xpath("//input[@type='submit']")).click();
 		driver.findElement(By.id("ap_password")).sendKeys(prop.getProperty("password"));
 		driver.findElement(By.id("signInSubmit")).click();
 		driver.findElement(By.xpath("//select[@id='searchDropdownBox']")).sendKeys("Electronics");
 		driver.findElement(By.id("twotabsearchtextbox")).sendKeys("mi band 3 black watch");
 		driver.findElement(By.xpath("//input[@type='submit'][@class='nav-input']")).click();
-		driver.findElement(By.linkText("Mi Band 3 (Black)")).click();
+//		driver.findElement(By.linkText("Mi Band 3 (Black)")).click();
 		// driver.close();
 		// driver.findElement(By.xpath("/html[1]/body[1]/div[2]/div[2]/div[4]/div[5]/div[1]/div[5]/div[1]/div[1]/div[1]/form[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[21]")).click();
-		driver.findElement(By.cssSelector("#buy-now-button")).sendKeys("500081", Keys.RETURN);
+//		driver.findElement(By.cssSelector("#buy-now-button")).sendKeys("500081");
+		
+		
 
 		Thread.sleep(3000);
 		driver.findElement(By.xpath("//div[@id='nav-logo']//a[@class='nav-logo-link']")).click();

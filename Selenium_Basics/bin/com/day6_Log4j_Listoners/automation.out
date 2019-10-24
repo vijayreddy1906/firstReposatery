@@ -1,0 +1,327 @@
+2019-10-11 19:07:45 INFO  BaseTest:39 - loaded properties files
+2019-10-11 19:07:52 INFO  BaseTest:41 - browser initilized
+2019-10-11 19:07:58 INFO  BaseTest:44 - url sent to browser
+2019-10-11 19:08:15 INFO  BaseTest:39 - loaded properties files
+2019-10-11 19:08:23 INFO  BaseTest:41 - browser initilized
+2019-10-11 19:08:29 INFO  BaseTest:44 - url sent to browser
+2019-10-13 17:13:48 INFO  BaseTest:39 - loaded properties files
+2019-10-13 17:13:55 INFO  BaseTest:41 - browser initilized
+2019-10-13 17:13:58 INFO  BaseTest:44 - url sent to browser
+2019-10-13 17:17:40 INFO  Base_Test_Log4j:241 - Browser Launch
+2019-10-13 17:17:44 INFO  Base_Test_Log4j:243 - Searched amazon url
+2019-10-13 17:17:45 INFO  Base_Test_Log4j:248 - entered signup window
+2019-10-13 17:17:46 INFO  Base_Test_Log4j:254 - Text entered
+2019-10-13 17:46:23 INFO  Base_Test:42 - properties files initilized
+2019-10-13 17:47:27 INFO  Base_Test:42 - properties files initilized
+2019-10-13 17:47:36 INFO  Base_Test:42 - properties files initilized
+2019-10-13 17:48:21 INFO  Base_Test:42 - properties files initilized
+2019-10-13 17:48:37 INFO  Base_Test:44 - browser opened and url sent
+2019-10-13 17:50:21 INFO  Base_Test:42 - properties files initilized
+2019-10-13 17:50:35 INFO  Base_Test:44 - browser opened and url sent
+2019-10-13 17:52:14 INFO  Base_Test:46 - properties files initilized
+2019-10-13 17:52:27 INFO  Base_Test:48 - browser opened and url sent
+2019-10-13 17:52:28 INFO  Base_Test:80 - browser quict
+2019-10-13 17:56:58 INFO  Base_Test:48 - properties files initilized
+2019-10-13 17:57:10 INFO  Base_Test:50 - browser opened and url sent
+2019-10-13 17:57:10 INFO  Base_Test:82 - browser quict
+2019-10-13 17:57:40 INFO  Base_Test:48 - properties files initilized
+2019-10-13 17:57:51 INFO  Base_Test:50 - browser opened and url sent
+2019-10-13 17:57:54 INFO  Base_Test:83 - browser quict
+2019-10-13 17:59:45 INFO  Base_Test:49 - properties files initilized
+2019-10-13 17:59:55 INFO  Base_Test:51 - browser opened and url sent
+2019-10-13 17:59:58 INFO  Base_Test:84 - browser quict
+2019-10-13 18:01:04 INFO  Base_Test:50 - properties files initilized
+2019-10-13 18:01:13 INFO  Base_Test:52 - browser opened and url sent
+2019-10-13 18:01:16 INFO  Base_Test:85 - browser quict
+2019-10-13 18:09:16 INFO  Base_Test:50 - properties files initilized
+2019-10-13 18:09:27 INFO  Base_Test:52 - browser opened and url sent
+2019-10-13 18:09:29 INFO  Base_Test:85 - browser quict
+2019-10-13 18:09:54 INFO  Base_Test:50 - properties files initilized
+2019-10-13 18:10:04 INFO  Base_Test:52 - browser opened and url sent
+2019-10-13 18:10:07 INFO  Base_Test:85 - browser quict
+2019-10-13 18:15:37 INFO  Base_Test:51 - properties files initilized
+2019-10-13 18:15:48 INFO  Base_Test:53 - browser opened and url sent
+2019-10-13 18:15:51 INFO  Base_Test:86 - browser quict
+2019-10-13 18:22:27 INFO  Base_Test:53 - properties files initilized
+2019-10-13 18:22:38 INFO  Base_Test:55 - browser opened and url sent
+2019-10-13 18:22:41 INFO  Base_Test:88 - browser quict
+2019-10-13 18:27:19 INFO  Base_Test:55 - properties files initilized
+2019-10-13 18:27:29 INFO  Base_Test:57 - browser opened and url sent
+2019-10-13 18:29:25 INFO  Base_Test:56 - properties files initilized
+2019-10-13 18:29:36 INFO  Base_Test:58 - browser opened and url sent
+2019-10-13 18:29:45 INFO  Base_Test:91 - browser quict
+2019-10-13 18:30:20 INFO  Base_Test:56 - properties files initilized
+2019-10-13 18:30:30 INFO  Base_Test:58 - browser opened and url sent
+2019-10-13 18:30:51 INFO  Base_Test:56 - properties files initilized
+2019-10-13 18:31:01 INFO  Base_Test:58 - browser opened and url sent
+2019-10-13 18:31:18 INFO  Base_Test:91 - browser quict
+2019-10-13 18:31:24 INFO  Base_Test:56 - properties files initilized
+2019-10-13 18:31:34 INFO  Base_Test:58 - browser opened and url sent
+2019-10-13 18:32:34 INFO  Base_Test:57 - properties files initilized
+2019-10-13 18:32:41 INFO  Base_Test:59 - browser opened and url sent
+2019-10-13 18:33:01 INFO  Base_Test:92 - browser quict
+2019-10-13 19:44:39 INFO  Base_Test:61 - properties files initilized
+2019-10-13 19:44:47 INFO  Base_Test:63 - browser opened and url sent
+2019-10-13 20:08:03 INFO  Base_Test:63 - properties files initilized
+2019-10-13 20:08:48 INFO  Base_Test:63 - properties files initilized
+2019-10-13 20:10:10 INFO  Base_Test:63 - properties files initilized
+2019-10-13 20:10:17 INFO  Base_Test:65 - browser opened and url sent
+2019-10-13 20:11:01 INFO  Base_Test:63 - properties files initilized
+2019-10-13 20:11:08 INFO  Base_Test:65 - browser opened and url sent
+2019-10-13 20:20:39 INFO  Base_Test:63 - properties files initilized
+2019-10-13 20:25:55 INFO  Base_Test:63 - properties files initilized
+2019-10-13 20:26:03 INFO  Base_Test:65 - browser opened and url sent
+2019-10-13 20:36:04 INFO  Base_Test:63 - properties files initilized
+2019-10-13 20:36:11 INFO  Base_Test:65 - browser opened and url sent
+2019-10-13 20:36:48 INFO  Base_Test:98 - browser quict
+2019-10-13 21:30:49 INFO  Base_Test:63 - properties files initilized
+2019-10-13 21:30:56 INFO  Base_Test:65 - browser opened and url sent
+2019-10-13 21:32:28 INFO  Base_Test:63 - properties files initilized
+2019-10-13 21:32:35 INFO  Base_Test:65 - browser opened and url sent
+2019-10-13 21:33:50 INFO  Base_Test:63 - properties files initilized
+2019-10-13 21:33:57 INFO  Base_Test:65 - browser opened and url sent
+2019-10-13 21:34:50 INFO  Base_Test:63 - properties files initilized
+2019-10-13 21:34:58 INFO  Base_Test:65 - browser opened and url sent
+2019-10-13 21:36:24 INFO  Base_Test:63 - properties files initilized
+2019-10-13 21:36:32 INFO  Base_Test:65 - browser opened and url sent
+2019-10-13 21:42:18 INFO  Base_Test:63 - properties files initilized
+2019-10-13 21:42:26 INFO  Base_Test:65 - browser opened and url sent
+2019-10-13 21:57:10 INFO  Base_Test:63 - properties files initilized
+2019-10-13 21:57:19 INFO  Base_Test:65 - browser opened and url sent
+2019-10-13 22:00:27 INFO  Base_Test:63 - properties files initilized
+2019-10-13 22:00:34 INFO  Base_Test:65 - browser opened and url sent
+2019-10-13 22:06:45 INFO  Base_Test:63 - properties files initilized
+2019-10-13 22:06:52 INFO  Base_Test:65 - browser opened and url sent
+2019-10-13 22:10:04 INFO  Base_Test:66 - properties files initilized
+2019-10-13 22:10:12 INFO  Base_Test:68 - browser opened and url sent
+2019-10-13 22:12:39 INFO  Base_Test:66 - properties files initilized
+2019-10-13 22:12:46 INFO  Base_Test:68 - browser opened and url sent
+2019-10-13 22:15:01 INFO  Base_Test:66 - properties files initilized
+2019-10-13 22:15:10 INFO  Base_Test:68 - browser opened and url sent
+2019-10-13 22:21:48 INFO  Base_Test:66 - properties files initilized
+2019-10-13 22:21:57 INFO  Base_Test:68 - browser opened and url sent
+2019-10-13 22:22:37 INFO  Base_Test:101 - browser quict
+2019-10-13 22:22:45 INFO  Base_Test:66 - properties files initilized
+2019-10-13 22:22:53 INFO  Base_Test:68 - browser opened and url sent
+2019-10-13 22:24:30 INFO  Base_Test:66 - properties files initilized
+2019-10-13 22:24:38 INFO  Base_Test:68 - browser opened and url sent
+2019-10-13 22:26:01 INFO  Base_Test:67 - properties files initilized
+2019-10-13 22:26:08 INFO  Base_Test:69 - browser opened and url sent
+2019-10-13 23:16:35 INFO  Base_Test:67 - properties files initilized
+2019-10-13 23:16:43 INFO  Base_Test:69 - browser opened and url sent
+2019-10-13 23:29:49 INFO  Base_Test:68 - properties files initilized
+2019-10-13 23:29:57 INFO  Base_Test:70 - browser opened and url sent
+2019-10-13 23:31:59 INFO  Base_Test:68 - properties files initilized
+2019-10-13 23:32:06 INFO  Base_Test:70 - browser opened and url sent
+2019-10-13 23:37:03 INFO  Base_Test:68 - properties files initilized
+2019-10-13 23:37:10 INFO  Base_Test:70 - browser opened and url sent
+2019-10-13 23:40:50 INFO  Base_Test:68 - properties files initilized
+2019-10-13 23:40:58 INFO  Base_Test:70 - browser opened and url sent
+2019-10-13 23:48:54 INFO  Base_Test:68 - properties files initilized
+2019-10-13 23:49:02 INFO  Base_Test:70 - browser opened and url sent
+2019-10-13 23:53:06 INFO  Base_Test:68 - properties files initilized
+2019-10-13 23:53:13 INFO  Base_Test:70 - browser opened and url sent
+2019-10-13 23:54:43 INFO  Base_Test:68 - properties files initilized
+2019-10-13 23:54:50 INFO  Base_Test:70 - browser opened and url sent
+2019-10-14 00:03:26 INFO  Base_Test:68 - properties files initilized
+2019-10-14 00:03:33 INFO  Base_Test:70 - browser opened and url sent
+2019-10-14 00:08:25 INFO  Base_Test:68 - properties files initilized
+2019-10-14 00:08:32 INFO  Base_Test:70 - browser opened and url sent
+2019-10-14 00:10:51 INFO  Base_Test:68 - properties files initilized
+2019-10-14 00:10:58 INFO  Base_Test:70 - browser opened and url sent
+2019-10-14 00:13:16 INFO  Base_Test:68 - properties files initilized
+2019-10-14 00:13:24 INFO  Base_Test:70 - browser opened and url sent
+2019-10-14 00:13:56 INFO  Base_Test:74 - browser quit
+2019-10-14 00:13:56 INFO  Base_Test:68 - properties files initilized
+2019-10-14 00:14:01 INFO  Base_Test:70 - browser opened and url sent
+2019-10-14 00:14:35 INFO  Base_Test:74 - browser quit
+2019-10-14 00:14:35 INFO  Base_Test:68 - properties files initilized
+2019-10-14 00:14:41 INFO  Base_Test:70 - browser opened and url sent
+2019-10-14 00:15:12 INFO  Base_Test:74 - browser quit
+2019-10-14 00:15:12 INFO  Base_Test:68 - properties files initilized
+2019-10-14 00:15:18 INFO  Base_Test:70 - browser opened and url sent
+2019-10-14 00:15:51 INFO  Base_Test:74 - browser quit
+2019-10-14 00:32:44 INFO  Base_Test:70 - properties files initilized
+2019-10-14 00:32:52 INFO  Base_Test:72 - browser opened and url sent
+2019-10-14 00:35:29 INFO  Base_Test:70 - properties files initilized
+2019-10-14 00:35:36 INFO  Base_Test:72 - browser opened and url sent
+2019-10-14 00:39:00 INFO  Base_Test:70 - properties files initilized
+2019-10-14 00:39:07 INFO  Base_Test:72 - browser opened and url sent
+2019-10-14 00:49:26 INFO  Base_Test:71 - properties files initilized
+2019-10-14 00:49:33 INFO  Base_Test:73 - browser opened and url sent
+2019-10-14 00:51:09 INFO  Base_Test:71 - properties files initilized
+2019-10-14 00:51:17 INFO  Base_Test:73 - browser opened and url sent
+2019-10-14 00:53:30 INFO  Base_Test:71 - properties files initilized
+2019-10-14 00:53:38 INFO  Base_Test:73 - browser opened and url sent
+2019-10-14 00:55:40 INFO  Base_Test:71 - properties files initilized
+2019-10-14 00:55:47 INFO  Base_Test:73 - browser opened and url sent
+2019-10-14 00:56:51 INFO  Base_Test:77 - browser quit
+2019-10-14 00:58:37 INFO  Base_Test:75 - properties files initilized
+2019-10-14 00:58:45 INFO  Base_Test:77 - browser opened and url sent
+2019-10-14 01:03:21 INFO  Base_Test:75 - properties files initilized
+2019-10-14 01:03:30 INFO  Base_Test:77 - browser opened and url sent
+2019-10-14 01:04:24 INFO  Base_Test:75 - properties files initilized
+2019-10-14 01:04:31 INFO  Base_Test:77 - browser opened and url sent
+2019-10-14 01:07:47 INFO  Base_Test:75 - properties files initilized
+2019-10-14 01:07:55 INFO  Base_Test:77 - browser opened and url sent
+2019-10-14 01:09:04 INFO  Base_Test:76 - properties files initilized
+2019-10-14 01:09:12 INFO  Base_Test:78 - browser opened and url sent
+2019-10-14 01:10:10 INFO  Base_Test:76 - properties files initilized
+2019-10-14 01:10:18 INFO  Base_Test:78 - browser opened and url sent
+2019-10-14 01:11:28 INFO  Base_Test:76 - properties files initilized
+2019-10-14 01:11:37 INFO  Base_Test:78 - browser opened and url sent
+2019-10-14 01:12:33 INFO  Base_Test:76 - properties files initilized
+2019-10-14 01:12:40 INFO  Base_Test:78 - browser opened and url sent
+2019-10-14 01:15:25 INFO  Base_Test:76 - properties files initilized
+2019-10-14 01:15:32 INFO  Base_Test:78 - browser opened and url sent
+2019-10-14 01:16:13 INFO  Base_Test:76 - properties files initilized
+2019-10-14 01:16:20 INFO  Base_Test:78 - browser opened and url sent
+2019-10-14 01:19:48 INFO  Base_Test:76 - properties files initilized
+2019-10-14 01:19:56 INFO  Base_Test:78 - browser opened and url sent
+2019-10-14 01:20:27 INFO  Base_Test:76 - properties files initilized
+2019-10-14 01:20:34 INFO  Base_Test:78 - browser opened and url sent
+2019-10-14 01:21:01 INFO  Base_Test:76 - properties files initilized
+2019-10-14 01:21:09 INFO  Base_Test:78 - browser opened and url sent
+2019-10-14 01:24:35 INFO  Base_Test:76 - properties files initilized
+2019-10-14 01:24:43 INFO  Base_Test:78 - browser opened and url sent
+2019-10-14 01:26:54 INFO  Base_Test:76 - properties files initilized
+2019-10-14 01:27:01 INFO  Base_Test:78 - browser opened and url sent
+2019-10-14 01:29:43 INFO  Base_Test:76 - properties files initilized
+2019-10-14 01:29:51 INFO  Base_Test:78 - browser opened and url sent
+2019-10-14 01:33:32 INFO  Base_Test:76 - properties files initilized
+2019-10-14 01:33:40 INFO  Base_Test:78 - browser opened and url sent
+2019-10-14 01:34:04 INFO  Base_Test:76 - properties files initilized
+2019-10-14 01:34:12 INFO  Base_Test:78 - browser opened and url sent
+2019-10-14 01:37:36 INFO  Base_Test:77 - properties files initilized
+2019-10-14 01:38:02 INFO  Base_Test:77 - properties files initilized
+2019-10-14 01:38:09 INFO  Base_Test:79 - browser opened and url sent
+2019-10-14 01:38:52 INFO  Base_Test:77 - properties files initilized
+2019-10-14 01:39:00 INFO  Base_Test:79 - browser opened and url sent
+2019-10-14 01:41:16 INFO  Base_Test:77 - properties files initilized
+2019-10-14 01:41:24 INFO  Base_Test:79 - browser opened and url sent
+2019-10-14 01:41:44 INFO  Base_Test:77 - properties files initilized
+2019-10-14 01:41:52 INFO  Base_Test:79 - browser opened and url sent
+2019-10-14 01:44:15 INFO  Base_Test:77 - properties files initilized
+2019-10-14 01:44:23 INFO  Base_Test:79 - browser opened and url sent
+2019-10-14 01:45:32 INFO  Base_Test:77 - properties files initilized
+2019-10-14 01:45:39 INFO  Base_Test:79 - browser opened and url sent
+2019-10-14 01:45:59 INFO  Base_Test:77 - properties files initilized
+2019-10-14 01:46:07 INFO  Base_Test:79 - browser opened and url sent
+2019-10-14 01:46:24 INFO  Base_Test:77 - properties files initilized
+2019-10-14 01:46:31 INFO  Base_Test:79 - browser opened and url sent
+2019-10-14 01:47:57 INFO  Base_Test:77 - properties files initilized
+2019-10-14 01:48:04 INFO  Base_Test:79 - browser opened and url sent
+2019-10-14 01:49:50 INFO  Base_Test:77 - properties files initilized
+2019-10-14 01:49:57 INFO  Base_Test:79 - browser opened and url sent
+2019-10-14 01:51:39 INFO  Base_Test:77 - properties files initilized
+2019-10-14 01:51:47 INFO  Base_Test:79 - browser opened and url sent
+2019-10-14 01:53:11 INFO  Base_Test:77 - properties files initilized
+2019-10-14 01:53:19 INFO  Base_Test:79 - browser opened and url sent
+2019-10-14 01:53:47 INFO  Base_Test:77 - properties files initilized
+2019-10-14 01:53:55 INFO  Base_Test:79 - browser opened and url sent
+2019-10-14 01:57:46 INFO  Base_Test:77 - properties files initilized
+2019-10-14 01:57:55 INFO  Base_Test:79 - browser opened and url sent
+2019-10-14 01:59:26 INFO  Base_Test:77 - properties files initilized
+2019-10-14 01:59:35 INFO  Base_Test:79 - browser opened and url sent
+2019-10-14 02:02:17 INFO  Base_Test:77 - properties files initilized
+2019-10-14 02:02:25 INFO  Base_Test:79 - browser opened and url sent
+2019-10-14 02:03:22 INFO  Base_Test:77 - properties files initilized
+2019-10-14 02:03:31 INFO  Base_Test:79 - browser opened and url sent
+2019-10-14 02:04:23 INFO  Base_Test:83 - browser quit
+2019-10-14 02:08:50 INFO  Base_Test:77 - properties files initilized
+2019-10-14 02:08:58 INFO  Base_Test:79 - browser opened and url sent
+2019-10-14 02:09:32 INFO  Base_Test:77 - properties files initilized
+2019-10-14 02:09:40 INFO  Base_Test:79 - browser opened and url sent
+2019-10-14 02:09:59 INFO  Base_Test:77 - properties files initilized
+2019-10-14 02:10:07 INFO  Base_Test:79 - browser opened and url sent
+2019-10-14 02:17:15 INFO  Base_Test:77 - properties files initilized
+2019-10-14 02:17:24 INFO  Base_Test:79 - browser opened and url sent
+2019-10-14 02:17:53 INFO  Base_Test:77 - properties files initilized
+2019-10-14 02:18:02 INFO  Base_Test:79 - browser opened and url sent
+2019-10-14 18:53:34 INFO  BaseTest:52 - initilized propertiesfile
+2019-10-14 18:53:41 INFO  BaseTest:55 - launch browser
+2019-10-14 18:54:32 INFO  BaseTest:59 - url sent to browser
+2019-10-14 18:57:10 INFO  BaseTest:52 - initilized propertiesfile
+2019-10-14 18:57:18 INFO  BaseTest:55 - launch browser
+2019-10-14 18:57:25 INFO  BaseTest:59 - url sent to browser
+2019-10-16 19:29:53 INFO  ScreenShot5_withfailure:68 - initilized Properties file
+2019-10-16 19:30:01 INFO  ScreenShot5_withfailure:70 - lauch Browser
+2019-10-16 19:30:48 INFO  ScreenShot5_withfailure:72 - url send to browse
+2019-10-16 19:31:05 INFO  ScreenShot5_withfailure:74 - loged in into crm application
+2019-10-16 19:33:47 INFO  ScreenShot5_withfailure:68 - initilized Properties file
+2019-10-16 19:33:54 INFO  ScreenShot5_withfailure:70 - lauch Browser
+2019-10-16 19:34:00 INFO  ScreenShot5_withfailure:72 - url send to browse
+2019-10-16 19:34:07 INFO  ScreenShot5_withfailure:74 - loged in into crm application
+2019-10-16 19:35:20 INFO  ScreenShot5_withfailure:68 - initilized Properties file
+2019-10-16 19:35:28 INFO  ScreenShot5_withfailure:70 - lauch Browser
+2019-10-16 19:35:33 INFO  ScreenShot5_withfailure:72 - url send to browse
+2019-10-16 19:35:40 INFO  ScreenShot5_withfailure:74 - loged in into crm application
+2019-10-16 19:40:04 INFO  ScreenShot5_withfailure:68 - initilized Properties file
+2019-10-16 19:40:13 INFO  ScreenShot5_withfailure:70 - lauch Browser
+2019-10-16 19:40:21 INFO  ScreenShot5_withfailure:72 - url send to browse
+2019-10-16 19:40:29 INFO  ScreenShot5_withfailure:74 - loged in into crm application
+2019-10-16 19:43:14 INFO  ScreenShot5_withfailure:68 - initilized Properties file
+2019-10-16 19:43:23 INFO  ScreenShot5_withfailure:70 - lauch Browser
+2019-10-16 19:43:34 INFO  ScreenShot5_withfailure:72 - url send to browse
+2019-10-16 19:43:42 INFO  ScreenShot5_withfailure:74 - loged in into crm application
+2019-10-16 19:54:38 INFO  ScreenShot5_withfailure:69 - initilized Properties file
+2019-10-16 19:54:46 INFO  ScreenShot5_withfailure:71 - lauch Browser
+2019-10-16 19:54:53 INFO  ScreenShot5_withfailure:73 - url send to browse
+2019-10-16 19:54:59 INFO  ScreenShot5_withfailure:75 - loged in into crm application
+2019-10-16 19:58:31 INFO  Base_Test_Log4j:241 - Browser Launch
+2019-10-16 20:00:03 INFO  ScreenShot5_withfailure:70 - initilized Properties file
+2019-10-16 20:00:10 INFO  ScreenShot5_withfailure:72 - lauch Browser
+2019-10-16 20:00:44 INFO  ScreenShot5_withfailure:74 - url send to browse
+2019-10-16 20:00:58 INFO  ScreenShot5_withfailure:76 - loged in into crm application
+2019-10-16 20:02:49 INFO  ScreenShot5_withfailure:70 - initilized Properties file
+2019-10-16 20:02:56 INFO  ScreenShot5_withfailure:72 - lauch Browser
+2019-10-16 20:03:46 INFO  ScreenShot5_withfailure:74 - url send to browse
+2019-10-16 20:04:02 INFO  ScreenShot5_withfailure:76 - loged in into crm application
+2019-10-16 20:30:16 INFO  ScreenShot5_withfailure:80 - initilized Properties file
+2019-10-16 20:30:25 INFO  ScreenShot5_withfailure:82 - lauch Browser
+2019-10-16 20:31:01 INFO  ScreenShot5_withfailure:85 - url send to browse
+2019-10-16 20:31:23 INFO  ScreenShot5_withfailure:88 - loged in into crm application
+2019-10-20 20:19:25 INFO  Base_Test:85 - properties files initilized
+2019-10-20 20:19:45 INFO  Base_Test:89 - browser opened and url sent
+2019-10-20 20:20:36 INFO  Base_Test:85 - properties files initilized
+2019-10-20 20:20:44 INFO  Base_Test:89 - browser opened and url sent
+2019-10-20 20:27:43 INFO  Base_Test:86 - properties files initilized
+2019-10-20 20:27:49 INFO  Base_Test:90 - browser opened and url sent
+2019-10-20 20:34:01 INFO  Base_Test:85 - properties files initilized
+2019-10-20 20:34:07 INFO  Base_Test:89 - browser opened and url sent
+2019-10-20 20:39:38 INFO  Base_Test:85 - properties files initilized
+2019-10-20 20:39:45 INFO  Base_Test:89 - browser opened and url sent
+2019-10-20 20:41:31 INFO  Base_Test:87 - properties files initilized
+2019-10-20 20:41:38 INFO  Base_Test:91 - browser opened and url sent
+2019-10-20 20:42:23 INFO  Base_Test:97 - browser quit
+2019-10-20 20:43:45 INFO  Base_Test:87 - properties files initilized
+2019-10-20 20:43:51 INFO  Base_Test:91 - browser opened and url sent
+2019-10-20 20:44:43 INFO  Base_Test:97 - browser quit
+2019-10-20 20:46:20 INFO  Base_Test:87 - properties files initilized
+2019-10-20 20:46:27 INFO  Base_Test:91 - browser opened and url sent
+2019-10-20 20:47:47 INFO  Base_Test:87 - properties files initilized
+2019-10-20 20:47:54 INFO  Base_Test:91 - browser opened and url sent
+2019-10-20 20:48:41 INFO  Base_Test:97 - browser quit
+2019-10-20 20:50:56 INFO  Base_Test:87 - properties files initilized
+2019-10-20 20:51:02 INFO  Base_Test:91 - browser opened and url sent
+2019-10-20 20:51:46 INFO  Base_Test:87 - properties files initilized
+2019-10-20 20:51:53 INFO  Base_Test:91 - browser opened and url sent
+2019-10-20 20:52:36 INFO  Base_Test:97 - browser quit
+2019-10-20 20:56:27 INFO  Base_Test:87 - properties files initilized
+2019-10-20 20:56:34 INFO  Base_Test:91 - browser opened and url sent
+2019-10-20 20:57:18 INFO  Base_Test:87 - properties files initilized
+2019-10-20 20:57:25 INFO  Base_Test:91 - browser opened and url sent
+2019-10-20 21:04:29 INFO  Base_Test:88 - properties files initilized
+2019-10-20 21:04:36 INFO  Base_Test:92 - browser opened and url sent
+2019-10-20 21:05:24 INFO  Base_Test:98 - browser quit
+2019-10-20 21:08:23 INFO  Base_Test:88 - properties files initilized
+2019-10-20 21:08:29 INFO  Base_Test:92 - browser opened and url sent
+2019-10-20 21:11:28 INFO  Base_Test:88 - properties files initilized
+2019-10-20 21:11:35 INFO  Base_Test:92 - browser opened and url sent
+2019-10-20 21:12:22 INFO  Base_Test:98 - browser quit
+2019-10-20 21:19:52 INFO  Base_Test:88 - properties files initilized
+2019-10-20 21:19:59 INFO  Base_Test:92 - browser opened and url sent
+2019-10-20 21:20:44 INFO  Base_Test:98 - browser quit
+2019-10-21 19:06:40 INFO  Base_Test:88 - properties files initilized
+2019-10-21 19:06:47 INFO  Base_Test:92 - browser opened and url sent
+2019-10-21 19:07:30 INFO  Base_Test:98 - browser quit

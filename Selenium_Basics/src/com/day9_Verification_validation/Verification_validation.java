@@ -103,7 +103,7 @@ public class Verification_validation {
 		else
 			System.out.println("Both are not equal.....");*/
 		
-		/*String Actualvalue = driver.findElement(By.linkText("AmazonBasics")).getText();
+		String Actualvalue = driver.findElement(By.linkText("AmazonBasics")).getText();
 		String ExpectedValue="AmazonBasic";
 		System.out.println(Actualvalue);
 		System.out.println(ExpectedValue);
@@ -111,7 +111,7 @@ public class Verification_validation {
 		if(Actualvalue.equalsIgnoreCase(ExpectedValue))
 			System.out.println("Both are Equal......");//it will get output because it will ignore cases
 		else
-			System.out.println("Both are not equal.....");*/
+			System.out.println("Both are not equal.....");
 		
 		
 		

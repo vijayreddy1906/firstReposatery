@@ -9,7 +9,6 @@ import java.util.Properties;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
-import org.testng.annotations.BeforeTest;
 
 import com.relevantcodes.extentreports.ExtentReports;
 import com.relevantcodes.extentreports.ExtentTest;
@@ -24,7 +23,6 @@ public class BaseClass {
 	public static ExtentTest test;
 
 	
-	@BeforeTest
 	public void launchBrowser(){
 		System.setProperty("webdriver.chrome.driver", projectDir+"\\target\\drivers\\chromedriver.exe");
 		ChromeOptions options=new ChromeOptions();
